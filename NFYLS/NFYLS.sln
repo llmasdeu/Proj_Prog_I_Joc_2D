@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{C1FF47F7-0735-9D78-0D1A-0D7635B2D25C}") = "NFYLS", "Assembly-CSharp.csproj", "{F2B3136E-2B7F-172C-C72A-BE5448958087}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NFYLS", "Assembly-CSharp.csproj", "{F2B3136E-2B7F-172C-C72A-BE5448958087}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
