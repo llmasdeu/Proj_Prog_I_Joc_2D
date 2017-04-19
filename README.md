@@ -2,6 +2,6 @@
 ## Projecte Final de Projectes de Programació I
 Git on es troba la carpeta del projecte, el qual esta essent desenvolupat amb Unity. Anirem repujant el projecte a mesura que anem aplicant canvis.</br></br>
 Integrants del grup:</br></br>
-</t>· Lluís Masdeu</br>
-</t>· Joan Fitó</br>
-</t>· Jesús Rada
+* Lluís Masdeu</br>
+* Joan Fitó</br>
+* Jesús Rada
