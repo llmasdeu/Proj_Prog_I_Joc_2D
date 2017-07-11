@@ -168,7 +168,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.8313726, g: 0, b: 0, a: 1}
+    m_NormalColor: {r: 0.8313726, g: 0, b: 0, a: 0.866}
     m_HighlightedColor: {r: 0.8235295, g: 0.8078432, b: 0.21960786, a: 1}
     m_PressedColor: {r: 0.8235294, g: 0.526, b: 0.21960783, a: 1}
     m_DisabledColor: {r: 0.8431373, g: 0.8431373, b: 0.8431373, a: 0.5019608}
@@ -290,7 +290,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 0.12941177, g: 0.7294118, b: 0.25882354, a: 1}
+    m_NormalColor: {r: 0.12941177, g: 0.7294118, b: 0.25882354, a: 0.91}
     m_HighlightedColor: {r: 0.8235294, g: 0.80682504, b: 0.2179931, a: 1}
     m_PressedColor: {r: 0.6617242, g: 0.95, b: 0, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
@@ -641,7 +641,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 391054771}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 355.5, y: 243, z: 0}
+  m_LocalPosition: {x: 355.5, y: 243.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 151197819}
@@ -712,7 +712,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Texture: {fileID: 2800000, guid: d70233eb0095062478cb6cc26eab967c, type: 3}
+  m_Texture: {fileID: 2800000, guid: 7e34fb60eb86f48fcbd3d985dae503af, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -920,7 +920,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Texture: {fileID: 2800000, guid: 928d176474eb864439dc07aa941518c6, type: 3}
+  m_Texture: {fileID: 2800000, guid: bf96f95b158fe47fc9a7442c21347d44, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0

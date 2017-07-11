@@ -6,6 +6,7 @@ public class enemyLife : MonoBehaviour {
 
     public int life = 3;
 	public GameObject particle;
+
 	// Use this for initialization
 	void Start () {
 		
