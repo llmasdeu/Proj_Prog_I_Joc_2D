@@ -117,6 +117,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 f34bf6a020620253de1b3c8773785396 Assembly-CSharp.dll:.Bullet
 a80d77b8e92608474915ae3a08b537c4 Assembly-CSharp.dll:.PlayerControl
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.MainMenuController
 847108a4f4300c8402f74cce11a88a67 Assembly-CSharp.dll:.DropMe
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Purchasing.dll:UnityEngine.Purchasing.AsyncUtil
 574e2ef631ab403e597f4cb72a3cc337 Assembly-CSharp.dll:.EnemySpawn
@@ -159,3 +160,4 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ApplicationManager
 1be0078a2e56fd4927a32b6de6b06155 Assembly-CSharp.dll:.Hand
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ChangeColor
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LevelSelectionMenuController

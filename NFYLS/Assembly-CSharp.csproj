@@ -61,6 +61,7 @@
      <Compile Include="Assets\Scripts\Levels_Scripts\PlayerControl.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\playerLife.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\Weapon.cs" />
+     <Compile Include="Assets\Scripts\Menus_Scripts\LevelSelectionMenuController.cs" />
      <Compile Include="Assets\Scripts\Menus_Scripts\MainMenuController.cs" />
      <Compile Include="Assets\Testing_Assets\Scripts\ActiveStateToggler.cs" />
      <Compile Include="Assets\Testing_Assets\Scripts\ApplicationManager.cs" />

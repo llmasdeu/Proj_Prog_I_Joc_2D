@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuController : MonoBehaviour {
 	public void OnNewGameButtonClick() {
-		SceneManager.LoadScene ("Level 1");
+		SceneManager.LoadScene ("Level Selection Menu");
 	}
 
 	public void OnExitGameButtonClick() {
