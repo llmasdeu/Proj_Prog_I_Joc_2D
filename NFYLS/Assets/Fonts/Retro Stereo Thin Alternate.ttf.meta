@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6309c1369b9004aa2a5db829b87c22a0
+timeCreated: 1499858783
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Retro Stereo Thin Alternate
+  fontNames:
+  - 526574726f2053746572656f205468696e20416c7465726e617465
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

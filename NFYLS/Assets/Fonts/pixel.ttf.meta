@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4a48408dd71c145fc86918b3eb34f341
+timeCreated: 1499859409
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: pixel
+  fontNames:
+  - 706978656c
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: feb81a33d67764c56a9804a04d28a400
+timeCreated: 1499858990
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RetroVolution
+  fontNames:
+  - 526574726f566f6c7574696f6e
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

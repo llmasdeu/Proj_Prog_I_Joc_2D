@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f8b6679cdcac94e4ba1c0a7be562a72f
+timeCreated: 1499859451
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Big Pixel Light Demo
+  fontNames:
+  - 42696720506978656c204c696768742044656d6f
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

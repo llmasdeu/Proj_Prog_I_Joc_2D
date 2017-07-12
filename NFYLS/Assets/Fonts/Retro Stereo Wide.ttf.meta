@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 376be9f1c4df242af843948722ae8d68
+timeCreated: 1499858870
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Retro Stereo Wide
+  fontNames:
+  - 526574726f2053746572656f2057696465
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

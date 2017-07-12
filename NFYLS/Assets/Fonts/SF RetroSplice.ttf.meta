@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3cb8e9a88f2834819aac190104f9968c
+timeCreated: 1499859029
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF RetroSplice
+  fontNames:
+  - 534620526574726f53706c696365
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

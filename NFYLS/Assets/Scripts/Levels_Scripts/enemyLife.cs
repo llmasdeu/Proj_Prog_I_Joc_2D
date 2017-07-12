@@ -15,9 +15,15 @@ public class enemyLife : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (life < 1) {
+			float x;
+			float y;
+			float z = 0;
 			for (int i = 0; i < 4; i++) {
 				GameObject part = Instantiate (particle) as GameObject;
-				part.transform.position = transform.position;
+				x = Random.Range (-1f, 1f);
+				y = Random.Range (-1f, 1f);
+
+				part.transform.position = transform.position + new Vector3(x,y,z);
 			}
 			Destroy (gameObject);
 		}

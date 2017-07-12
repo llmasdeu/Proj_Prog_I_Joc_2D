@@ -8,14 +8,26 @@ public class EnemyMov : MonoBehaviour {
 	public Vector2 moveAmount;
 	private float moveDirection = 1.0f;
 
+	private Transform wallCheck;
+	private bool walled = false;
+
 	// Use this for initialization
 	void Start () {
 
+		wallCheck = transform.Find("wallCheck");
+	}
+
+	void Update(){
+
+		walled = Physics2D.Linecast (transform.position, wallCheck.position, 1 << LayerMask.NameToLayer ("Ground"));
 	}
 
 	void FixedUpdate() {
 		moveAmount.x = moveDirection * moveSpeed * Time.deltaTime;
 		transform.Translate(moveAmount); //Move the enemy
+
+		if (walled)
+			Flip ();
 	}
 
 	public void Flip() {
@@ -25,10 +37,4 @@ public class EnemyMov : MonoBehaviour {
 		transform.localScale = enemyScale;
 	}
 		
-	void OnCollisionEnter2D(Collision2D other) {
-
-		if (other.gameObject.tag == "wall") {
-			Flip();
-		}
-	}
 }

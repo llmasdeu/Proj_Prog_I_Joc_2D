@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 35bfb1284b9f24971823fdcc983e4e0e
+timeCreated: 1499858625
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Retroheavyfuture
+  fontNames:
+  - 526574726f6865617679667574757265
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
