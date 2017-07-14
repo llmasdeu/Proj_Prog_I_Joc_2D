@@ -299,6 +299,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   f: 10000
   m_bullet: {fileID: 1273236708595610, guid: 181e2592eccd74a6689f4c4c8bf9626f, type: 2}
+  firePeriod: 0.1
 --- !u!114 &114864907606594944
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -311,6 +312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   life: 3
+  inmunityTime: 2
 --- !u!114 &114904296147253954
 MonoBehaviour:
   m_ObjectHideFlags: 1

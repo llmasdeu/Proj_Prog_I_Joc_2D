@@ -35,6 +35,10 @@ public class enemyLife : MonoBehaviour {
         {
             life--;
         }
+		if (other.gameObject.tag == "mapEnd")
+		{
+			life = 0;
+		}
         
     }
 }

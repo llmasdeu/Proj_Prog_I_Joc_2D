@@ -1,13 +1,46 @@
 BIBLIOGRAFIA
 
-· Adding a background [Mayo de 2017]
+· Adding a background [Maig de 2017]
 https://unity3d.com/learn/tutorials/projects/space-shooter/adding-a-background
 
-· Creating a Start Menu / Main Menu in Unity 5 [Junio de 2017]
+· Creating a Start Menu / Main Menu in Unity 5 [Juny de 2017]
 https://www.youtube.com/watch?v=FrJogRBSzFo
 
-· Live Training 5th September 2016 - Creating a Main Menu [Enero de 2017]
+· Live Training 5th September 2016 - Creating a Main Menu [Gener de 2017]
 https://www.youtube.com/watch?v=OWtQnZsSdEU
 
-· How to change scenes by pressing a key [Mayo de 2017]
+· How to change scenes by pressing a key [Maig de 2017]
 https://forum.unity3d.com/threads/how-to-change-scenes-by-pressing-a-key.277249/
+
+· Programming in C# Jump Start [Desembre de 2016]
+https://mva.microsoft.com/en-us/training-courses/programming-in-c-jump-start-14254
+
+· Unity - Learn - Live Training [Desembre de 2016]
+https://unity3d.com/learn/live-training
+
+· Creating a scene selection menu [Gener de 2017]
+https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/creating-a-scene-menu
+
+· Panes, panels and windows [Desembre de 2016]
+https://unity3d.com/learn/tutorials/modules/intermediate/live-training-archive/panels-panes-windows?playlist=17111
+
+· Creating A Main Menu [Gener de 2017]
+https://unity3d.com/learn/tutorials/topics/user-interface-ui/creating-main-menu?playlist=17111
+
+· Controlling the game [Desembre de 2016]
+https://unity3d.com/learn/tutorials/tic-tac-toe/game-control?playlist=17111
+
+· Introduction and setting-up the project [Desembre de 2016]
+https://unity3d.com/learn/tutorials/tic-tac-toe/introduction-and-setting-project?playlist=17111
+
+· Adding Buttons [Gener de 2017]
+https://unity3d.com/learn/tutorials/topics/user-interface-ui/adding-buttons?playlist=17111
+
+· Adding Interactivity [Gener de 2017]
+https://unity3d.com/learn/tutorials/topics/user-interface-ui/adding-interactivity?playlist=17111
+
+· Creating Items and Testing [Desembre de 2016]
+https://unity3d.com/learn/tutorials/topics/user-interface-ui/creating-items-and-testing?playlist=17111
+
+· 2D Game Controller [Desembre de 2016]
+https://unity3d.com/learn/tutorials/s/2d-game-creation

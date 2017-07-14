@@ -5,6 +5,10 @@ public class Weapon : MonoBehaviour
 {
     public float f = 10;
     public GameObject m_bullet;
+
+	public float firePeriod = 0.1f;
+	private float nextFire = 0;
+
     void Start()
     {
 
@@ -14,7 +18,10 @@ public class Weapon : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            fire();
+			if (Time.time > nextFire) {
+				nextFire = Time.time + firePeriod;
+				fire();
+			}
         }
 
     }

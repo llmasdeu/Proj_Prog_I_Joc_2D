@@ -7,7 +7,7 @@ public class EnemyParticle : MonoBehaviour
 
     void Start()
     {
-		time = Random.Range(3f,6f);
+		time = Random.Range(3f,15f);
         Destroy(gameObject, time);
     }
 

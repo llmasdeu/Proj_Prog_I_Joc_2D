@@ -14,6 +14,9 @@ public class EnemyMov : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+		int n = Random.Range (0, 10);
+		if (n % 2 == 0)
+			Flip ();
 		wallCheck = transform.Find("wallCheck");
 	}
 

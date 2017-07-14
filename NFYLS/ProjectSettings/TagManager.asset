@@ -9,6 +9,7 @@ TagManager:
   - playerAttack
   - enemyAttack
   - wall
+  - mapEnd
   layers:
   - Default
   - TransparentFX
