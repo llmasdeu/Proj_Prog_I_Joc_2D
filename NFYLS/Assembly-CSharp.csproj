@@ -62,6 +62,7 @@
      <Compile Include="Assets\Scripts\Levels_Scripts\Pauser.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\PlayerControl.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\playerLife.cs" />
+     <Compile Include="Assets\Scripts\Levels_Scripts\ScoreCount.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\Weapon.cs" />
      <Compile Include="Assets\Scripts\Menus_Scripts\GameOverMenuController.cs" />
      <Compile Include="Assets\Scripts\Menus_Scripts\LevelSelectionMenuController.cs" />

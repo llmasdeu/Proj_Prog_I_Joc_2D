@@ -2,10 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class playerLife : MonoBehaviour {
 
     public int life = 3;
+	public Text text;
 	public float inmunityTime = 2f;
 	private float nextHitTime = 0f;
 
@@ -16,9 +18,9 @@ public class playerLife : MonoBehaviour {
 	private bool startBlinking = false;
 
     // Use this for initialization
-    void Start()
-    {
-
+    void Start() {
+		text = GameObject.Find("HealthText").GetComponent<Text>();
+		text.text = "" + life;
     }
 
     // Update is called once per frame
@@ -45,6 +47,7 @@ public class playerLife : MonoBehaviour {
 			if (Time.time > nextHitTime) {
 				nextHitTime = Time.time + inmunityTime;
 				life--;
+				text.text = "" + life;
 				startBlinking = true;
 			}
         }
@@ -60,6 +63,7 @@ public class playerLife : MonoBehaviour {
 			if (Time.time > nextHitTime) {
 				nextHitTime = Time.time + inmunityTime;
 				life--;
+				text.text = "" + life;
 				startBlinking = true;
 			}
 		}
