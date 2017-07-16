@@ -56,7 +56,6 @@
      <Compile Include="Assets\Scripts\Levels_Scripts\enemyLife.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\EnemyMov.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\EnemyParticle.cs" />
-     <Compile Include="Assets\Scripts\Levels_Scripts\EnemySpawn.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\EnemySpawner.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\Hand.cs" />
      <Compile Include="Assets\Scripts\Levels_Scripts\Pauser.cs" />

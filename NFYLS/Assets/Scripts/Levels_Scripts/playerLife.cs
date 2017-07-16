@@ -26,6 +26,11 @@ public class playerLife : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
+		if (life < 1)
+		{
+			text.text = "X";
+		}
+
 		if (life < 0)
 		{
 			Destroy (gameObject);
