@@ -67,19 +67,6 @@
      <Compile Include="Assets\Scripts\Menus_Scripts\GameOverMenuController.cs" />
      <Compile Include="Assets\Scripts\Menus_Scripts\LevelSelectionMenuController.cs" />
      <Compile Include="Assets\Scripts\Menus_Scripts\MainMenuController.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\ActiveStateToggler.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\ApplicationManager.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\ChangeColor.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\DragMe.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\DragPanel.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\DropMe.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\PanelManager.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\ResizePanel.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\ScrollDetailTexture.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\ShowSliderValue.cs" />
-     <Compile Include="Assets\Testing_Assets\Scripts\TiltWindow.cs" />
-     <None Include="Assets\Testing_Assets\Fonts\Jupiter\LICENSE.txt" />
-     <None Include="Assets\Testing_Assets\Textures and Sprites\SF UI\Background\LICENSE.txt" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
