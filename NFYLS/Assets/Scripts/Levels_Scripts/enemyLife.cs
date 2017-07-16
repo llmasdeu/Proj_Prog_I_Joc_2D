@@ -6,10 +6,11 @@ public class enemyLife : MonoBehaviour {
 
     public int life = 3;
 	public GameObject particle;
+	private bool deathByMap;
 
 	// Use this for initialization
 	void Start () {
-		
+		deathByMap = false;
 	}
 	
 	// Update is called once per frame
@@ -25,6 +26,16 @@ public class enemyLife : MonoBehaviour {
 
 				part.transform.position = transform.position + new Vector3(x,y,z);
 			}
+
+			if (!deathByMap) {
+				ScoreCount.enemiesKilled++;
+			} else {
+				ScoreCount.enemiesDroped++;
+			}
+
+			Debug.Log ("Enemies killed: " + ScoreCount.enemiesKilled);
+			deathByMap = false;
+
 			Destroy (gameObject);
 		}
     }
@@ -38,6 +49,7 @@ public class enemyLife : MonoBehaviour {
 		if (other.gameObject.tag == "mapEnd")
 		{
 			life = 0;
+			deathByMap = true;
 		}
         
     }

@@ -9,11 +9,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: bdd8265dc446146c99c8cc4a0d3c5180
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
-    guid: 94618aeb257d3432580259e5343006f6
-  - enabled: 1
     path: Assets/Scenes/Level Selection Menu.unity
     guid: 628f1062a639748d58ac4afd2b4078d2
   - enabled: 1
     path: Assets/Scenes/Game Over.unity
     guid: 24b40eaa4077f4175820ce0b2955e09e
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: ac12fc32a290b4df89327dd6e5f8b36d
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 3c767686062b34752852798d33742351
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: c8703af5ed06e459899583d22b72e359
