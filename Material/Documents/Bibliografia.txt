@@ -21,6 +21,9 @@ https://unity3d.com/learn/tutorials/tic-tac-toe/introduction-and-setting-project
 · Panes, panels and windows [Desembre de 2016]
 https://unity3d.com/learn/tutorials/modules/intermediate/live-training-archive/panels-panes-windows?playlist=17111
 
+· Camera setup [Desembre de 2016]
+https://unity3d.com/learn/tutorials/projects/survival-shooter/camera-setup?playlist=17144
+
 · Creating a scene selection menu [Gener de 2017]
 https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/creating-a-scene-menu
 
@@ -47,6 +50,9 @@ https://www.youtube.com/watch?v=FrJogRBSzFo
 
 · Crear un juego en 2d con Unity3d [Juny de 2017]
 https://www.adictosaltrabajo.com/tutoriales/autentia-invaders-unity/
+
+· Health Hud [Juliol de 2017]
+https://unity3d.com/learn/tutorials/projects/survival-shooter/health-hud
 
 · Unity3D: How to make a 2D GUI HUD interface to display score/lives [Juliol de 2017]
 http://johnstejskal.com/wp/unity3d-how-to-make-a-2d-gui-hud-interface-to-display-scorelives/
